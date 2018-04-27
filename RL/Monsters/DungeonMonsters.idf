@@ -1,0 +1,5 @@
+;Put path (from root) of monsters that will spawn in dungeon
+;
+;Vermin:
+.\Monsters\Cockroach.ini
+.\Monsters\Rat.ini

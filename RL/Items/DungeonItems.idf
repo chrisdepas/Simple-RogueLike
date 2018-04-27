@@ -1,0 +1,18 @@
+;Put path (from root) of items that will spawn in dungeon here
+.\Items\Bread.ini
+.\Items\Lighter.ini
+.\Items\Watermelon.ini
+.\Items\Orange.ini
+.\Items\GoldNecklace.ini
+.\Items\BottledWater.ini
+.\Items\EmptyPlasticBottle.ini
+;Melee
+.\Items\MetalPipe.ini
+.\Items\CombatKnife.ini
+.\Items\BaseballBat.ini
+;Guns
+.\Items\22Rifle.ini
+.\Items\WaltherPPQ.ini
+.\Items\Colt45.ini
+.\Items\Model12.ini
+.\Items\T3Varmint.ini
