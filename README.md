@@ -12,4 +12,4 @@ Arrow keys to move
 'F' to fire a ranged weapon
 
 # Screenshot
-[Game](Screenshot.png)
+[Game](!Screenshot.png)
